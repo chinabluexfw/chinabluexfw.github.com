@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : chinabluexfw-blog-by-github
+      short_name : chinabluexfwblogbygithub
     livefyre :
       site_id : 123
     intensedebate :
