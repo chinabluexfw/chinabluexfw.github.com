@@ -9,12 +9,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 'chinabluexfw'
+title : chinabluexfw
 tagline: Site Tagline
 author :
-  name : 'chinabluexfw'
-  email : 'chinabluexfw@163.com'
-  github : 'https://github.com/chinabluexfw/'
+  name : chinabluexfw
+  email : chinabluexfw@163.com
+  github : https://github.com/chinabluexfw/
   twitter : 
   feedburner : 
 
@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : 'chinabluexfwblogbygithub'
+      short_name : chinabluexfwblogbygithub
     livefyre :
       site_id : 123
     intensedebate :
