@@ -1,8 +1,8 @@
 ---
 layout : post
 category : lessons
-tags : phing phpunit
-title :  phing生成phpunit报告,代码覆盖率
+tags : mysql master slave
+title :  mysql master slave 配置
 
 ---
 
