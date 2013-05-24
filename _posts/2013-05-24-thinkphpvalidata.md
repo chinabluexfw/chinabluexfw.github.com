@@ -9,6 +9,7 @@ title :  thinkphp 让数据验证变得简单
 
 1 数据验证类 ValiDataUtil
 	提供以下验证方法
+
 	 /**
 	 * 根据验证规则验证数据字段.
 	 * @param Array $data key/value 数组
@@ -20,10 +21,11 @@ title :  thinkphp 让数据验证变得简单
 	 * 2 值不为空的时候验证
 	 * @return Boolean
 	 */
+
 	public function ValidData($data,$rulelist,$onerror = false)
 	{
 	}
-	
+
 	/**
 	 * 根据验证规则验证数据.
 	 * @param Array $data key/value 数组
@@ -34,12 +36,12 @@ title :  thinkphp 让数据验证变得简单
 	 * 2 值不为空的时候验证
 	 * @return Boolean
 	 */
+
 	public function Valid($data,$rule) 
 	{
 	}
 	
 	/**
-
      * 验证数据值 支持 in between equal length regex expire ip_allow ip_deny.
      * @param String $value 验证数据
      * @param Mixed  $rule 验证表达式
