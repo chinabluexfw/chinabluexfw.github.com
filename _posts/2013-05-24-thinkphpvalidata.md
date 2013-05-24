@@ -7,8 +7,7 @@ title :  thinkphp 让数据验证变得简单
 ---
 
 
-1 数据验证类 ValiDataUtil
-	提供以下验证方法
+1 数据验证类 ValiDataUtil 提供以下验证方法
 
 	 /**
 	 * 根据验证规则验证数据字段.
